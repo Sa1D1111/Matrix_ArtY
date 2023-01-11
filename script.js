@@ -19,8 +19,8 @@ gradient.addColorStop(0, 'rgb(0, 255, 68)'); // purple
 
 class symbol {
     constructor(x, y, fontSize, canvasHeight){
-        //this.characters = 'アァカサタナハマヤャラワガザダバパイィキシチニヒミリヰギジヂビピウゥクスツヌフムユュルグズブヅプエェケセテネヘメレヱゲゼデベペオォコソトノホモヨョロヲゴゾドボポヴッン0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ';
-        this.characters = 'GATOァカサ';        
+        this.characters = 'アァカサタナハマヤャラワガザダバパイィキシチニヒミリヰギジヂビピウゥクスツヌフムユュルグズブヅプエェケセテネヘメレヱゲゼデベペオォコソトノホモヨョロヲゴゾドボポヴッン0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+        //this.characters = 'GATOァカサ';        
         this.x = x;
         this.y = y;
         this.fontSize = fontSize;
